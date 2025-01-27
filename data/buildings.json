@@ -1,0 +1,26 @@
+{
+    "buildings": [
+      { 
+        "id": 1,
+        "name": "Maths Building",
+        "distance": "100m",
+        "image": "../assets/images/classroom.png",  
+        "description": "TA is equipped with modern seating arrangements and a projector for presentations."
+      },
+      { 
+        "id": 2,
+        "name": "K Block",
+        "distance": "250m",
+        "image": "../assets/images/classroom.png",  
+        "description": "TC offers comfortable chairs and a large whiteboard for discussions and lectures."
+      },
+      { 
+        "id": 3,
+        "name": "Library",
+        "distance": "400m",
+        "image": "../assets/images/library.jpg",  
+        "description": "KB is a spacious hall with tiered seating and advanced sound systems."
+      }
+    ]
+  }
+  
