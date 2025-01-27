@@ -10,21 +10,21 @@ const lectureHalls = [
     id: 1,
     name: "TA",
     distance: "100m",
-    image: `${baseUrl}/images/classroom.png`,
+    image: `${baseUrl}/assets/images/classroom.png`,
     description: "TA is equipped with modern seating arrangements and a projector for presentations."
   },
   { 
     id: 2,
     name: "TC",
     distance: "250m",
-    image: `${baseUrl}/images/classroom.png`,
+    image: `${baseUrl}/assets/images/classroom.png`,
     description: "TC offers comfortable chairs and a large whiteboard for discussions and lectures."
   },
   { 
     id: 3,
     name: "KB",
     distance: "400m",
-    image: `${baseUrl}/images/classroom.png`,
+    image: `${baseUrl}/assets/images/classroom.png`,
     description: "KB is a spacious hall with tiered seating and advanced sound systems."
   },
 ];
